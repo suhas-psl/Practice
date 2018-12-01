@@ -2,7 +2,6 @@ package Patterns;
 
 
 
-
 /**
   1
   1 2
@@ -10,6 +9,7 @@ package Patterns;
   1 2 3 4 5
   1 2 3 4 5 6  
  */
+
 public class Prog1 {
 
 	public static void main(String[] args){
