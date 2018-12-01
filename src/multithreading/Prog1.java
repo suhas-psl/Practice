@@ -8,7 +8,7 @@ public class Prog1 extends Thread {
 	
 	public static void main(String[] args){
 		
-		Prog1 p = new Prog1();
-		p.start();
+		Prog1 pr = new Prog1();
+		pr.start();
 	}
 }
